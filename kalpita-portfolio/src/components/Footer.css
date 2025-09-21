@@ -1,0 +1,7 @@
+.footer {
+    background-color: #f8f5f1; /* Same as portfolio section for consistency */
+    padding: 2rem 0;
+    text-align: center;
+    color: #8f8a84; /* Softer text color */
+    font-size: 0.9rem;
+}

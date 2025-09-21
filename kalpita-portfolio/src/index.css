@@ -1,0 +1,61 @@
+/* FONT IMPORTS */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap');
+
+/* CSS VARIABLES */
+:root {
+  --color-background: #fdfaf6; /* Creamy white */
+  --color-text: #382a22;      /* Dark brown */
+  --color-accent: #c58a64;    /* Muted terracotta/accent */
+  --color-subtle: #e9e2d9;    /* Lighter accent/border color */
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Playfair Display', serif;
+}
+
+/* GLOBAL STYLES */
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-wrapper {
+  opacity: 0;
+  animation: fadeInApp 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeInApp {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* UTILITY CLASSES */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Removing Tailwind base styles */
+*, ::before, ::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: #e5e7eb;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
