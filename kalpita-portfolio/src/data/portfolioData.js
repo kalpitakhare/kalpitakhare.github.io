@@ -27,7 +27,7 @@ export const portfolioItems = [
         title: "Paper Cut Stop Motion",
         category: "Stop Motion",
         videoUrl: "https://www.youtube.com/embed/your_video_id_here",
-        imageUrl: "/images/4.jpg", // Thumbnail for video
+        imageUrl: "/images/9.jpg", // Thumbnail for video
         type: "video",
     },
     {
