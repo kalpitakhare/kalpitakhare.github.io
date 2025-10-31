@@ -34,4 +34,5 @@ export const portfolioItems = [
     { id: 31, title: "Artwork 31", category: "Sketching", imageUrl: "/images/img22.jpg", type: "image" },
     { id: 32, title: "Artwork 32", category: "Sketching", imageUrl: "/images/img33.jpg", type: "image" },
     { id: 33, title: "Artwork 33", category: "Sketching", imageUrl: "/images/img23.jpg", type: "image" },
+
 ];
