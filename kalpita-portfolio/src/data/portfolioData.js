@@ -1,47 +1,35 @@
 // src/data/portfolioData.js
 
 export const portfolioItems = [
-    {
-        id: 1,
-        title: "Charcoal Study",
-        category: "Sketching",
-        imageUrl: "/images/1.jpg", // Correct Path
-        type: "image",
-    },
-    {
-        id: 2,
-        title: "Digital Portrait",
-        category: "Digital Art",
-        imageUrl: "/images/2.jpg", // Correct Path
-        type: "image",
-    },
-    {
-        id: 3,
-        title: "Ink Illustration",
-        category: "Illustration",
-        imageUrl: "/images/3.jpg", // Correct Path
-        type: "image",
-    },
-    {
-        id: 4,
-        title: "Paper Cut Stop Motion",
-        category: "Stop Motion",
-        videoUrl: "https://www.youtube.com/embed/your_video_id_here",
-        imageUrl: "/images/9.jpg", // Thumbnail for video
-        type: "video",
-    },
-    {
-        id: 5,
-        title: "Anatomical Sketch",
-        category: "Sketching",
-        imageUrl: "/images/5.jpg", // Correct Path
-        type: "image",
-    },
-    {
-        id: 6,
-        title: "Ergonomic Lamp Concept",
-        category: "Design",
-        imageUrl: "/images/6.jpg", // Correct Path
-        type: "image",
-    },
+    { id: 1, title: "Artwork 1", category: "Sketching", imageUrl: "/images/img1.jpg", type: "image" },
+    { id: 2, title: "Artwork 2", category: "Sketching", imageUrl: "/images/img2.jpg", type: "image" },
+    { id: 3, title: "Artwork 3", category: "Sketching", imageUrl: "/images/img4.jpg", type: "image" },
+    { id: 7, title: "Artwork 7", category: "Sketching", imageUrl: "/images/img6.jpg", type: "image" },
+    { id: 8, title: "Artwork 8", category: "Sketching", imageUrl: "/images/img8.jpg", type: "image" },
+    { id: 9, title: "Artwork 9", category: "Sketching", imageUrl: "/images/img9.jpg", type: "image" },
+    { id: 4, title: "Artwork 4", category: "Sketching", imageUrl: "/images/img3.jpg", type: "image" },
+    { id: 5, title: "Artwork 5", category: "Sketching", imageUrl: "/images/img5.jpg", type: "image" },
+    { id: 6, title: "Artwork 6", category: "Sketching", imageUrl: "/images/img7.jpg", type: "image" },
+    { id: 10, title: "Artwork 10", category: "Sketching", imageUrl: "/images/img10.jpg", type: "image" },
+    { id: 11, title: "Artwork 11", category: "Sketching", imageUrl: "/images/img11.jpg", type: "image" },
+    { id: 12, title: "Artwork 12", category: "Sketching", imageUrl: "/images/img12.jpg", type: "image" },
+    { id: 13, title: "Artwork 13", category: "Sketching", imageUrl: "/images/img16.jpg", type: "image" },
+    { id: 14, title: "Artwork 14", category: "Sketching", imageUrl: "/images/img30.jpg", type: "image" },
+    { id: 15, title: "Artwork 15", category: "Sketching", imageUrl: "/images/img25.jpg", type: "image" },
+    { id: 16, title: "Artwork 16", category: "Sketching", imageUrl: "/images/img15.jpg", type: "image" },
+    { id: 17, title: "Artwork 17", category: "Sketching", imageUrl: "/images/img17.jpg", type: "image" },
+    { id: 18, title: "Artwork 18", category: "Sketching", imageUrl: "/images/img18.jpg", type: "image" },
+    { id: 19, title: "Artwork 19", category: "Sketching", imageUrl: "/images/img19.jpg", type: "image" },
+    { id: 20, title: "Artwork 20", category: "Sketching", imageUrl: "/images/img20.jpg", type: "image" },
+    { id: 21, title: "Artwork 21", category: "Sketching", imageUrl: "/images/img21.jpg", type: "image" },
+    { id: 22, title: "Artwork 22", category: "Sketching", imageUrl: "/images/img24.jpg", type: "image" },
+    { id: 23, title: "Artwork 23", category: "Sketching", imageUrl: "/images/img22.jpg", type: "image" },
+    { id: 25, title: "Artwork 25", category: "Sketching", imageUrl: "/images/img14.jpg", type: "image" },
+    { id: 26, title: "Artwork 26", category: "Sketching", imageUrl: "/images/img26.jpg", type: "image" },
+    { id: 27, title: "Artwork 27", category: "Sketching", imageUrl: "/images/img27.jpg", type: "image" },
+    { id: 28, title: "Artwork 28", category: "Sketching", imageUrl: "/images/img28.jpg", type: "image" },
+    { id: 29, title: "Artwork 29", category: "Sketching", imageUrl: "/images/img29.jpg", type: "image" },
+    { id: 30, title: "Artwork 30", category: "Sketching", imageUrl: "/images/img13.jpg", type: "image" },
+    { id: 31, title: "Artwork 31", category: "Sketching", imageUrl: "/images/img31.jpg", type: "image" },
+    { id: 32, title: "Artwork 32", category: "Sketching", imageUrl: "/images/img32.jpg", type: "image" },
 ];

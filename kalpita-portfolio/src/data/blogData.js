@@ -3,7 +3,7 @@ export const blogPosts = [
         id: 1,
         title: "Why birds remind me of us.",
         date: "August 24, 2025",
-        imageUrl: "/images/blog-birds.jpg",
+        imageUrl: "/images/blog1.jpg",
         preview: "With their wings, they can go anywhere... but what surprises me is that they rarely use all that freedom.",
         content: [
             "When I watch birds, I can’t stop thinking about them. They are some of the freest creatures on earth. With their wings, they can go anywhere. They could fly to the next town, the next forest, even cross an ocean if they wanted to. They don’t have visas, they don’t have borders, they don’t need tickets. The whole sky belongs to them. But what surprises me is that they rarely use all that freedom. Most of the time, they sit on the same tree. The same branch, the same little spot. Day after day, they return there as if that one branch is enough to hold their whole world.",
@@ -19,7 +19,7 @@ export const blogPosts = [
         id: 2,
         title: "An Ant. Maybe not JUST an Ant?",
         date: "August 23, 2025",
-        imageUrl: "/images/blog-ant.jpg",
+        imageUrl: "/images/blog2.jpg",
         preview: "To me, it was nothing. But to that ant, it was everything. That little crumb was probably as heavy as a huge rock...",
         content: [
             "This morning, a tiny ant crawled across my hand. It was carrying something, maybe a crumb, maybe a piece of food so small I couldn’t even see it clearly. To me, it was nothing. But to that ant, it was everything. That little crumb was probably as heavy as a huge rock, yet the ant moved without stopping, without looking scared, without dropping it even once. I sat there thinking what must it feel like to live life as an ant?",
@@ -36,7 +36,7 @@ export const blogPosts = [
         id: 3,
         title: "For the 5 year old K.",
         date: "August 17, 2025",
-        imageUrl: "/images/blog-writing.jpg",
+        imageUrl: "/images/blog3.jpg",
         preview: "I wrote for the little girl who wanted to see her name on the cover of something, anything. I wrote because my heart asked me to...",
         content: [
             "There are days when I wake up already tired. Not physically, but inside my chest. My heart feels heavy even before the day has started. I sit with my books, my sketches, my plans, but nothing moves. The clock ticks, the sun rises and sets, and I am still in the same spot. The world around me keeps moving forward. My friends, classmates, and even strangers on the internet are doing more, achieving more, creating more. And I am just here watching, comparing, sinking into my own silence.",
@@ -55,7 +55,7 @@ export const blogPosts = [
         id: 4,
         title: "Peak of emotions.",
         date: "July 31, 2025",
-        imageUrl: "/images/blog-emotions.jpg",
+        imageUrl: "/images/blog4.jpg",
         preview: "The peak of happiness is crying. The peak of sadness is laughing. And I just paused.",
         content: [
             "I was just doomscrolling after a long day. My head was full, body tired, and honestly, I didn’t even want to feel anything. I was just scrolling like a zombie, not looking for anything, just avoiding whatever was building inside. And suddenly, I read this one line:",
@@ -104,7 +104,7 @@ export const blogPosts = [
         id: 5,
         title: "Too many colors to love just one",
         date: "July 29, 2025",
-        imageUrl: "/images/blog-colors.jpg",
+        imageUrl: "/images/blog5.jpg",
         preview: "What if I don’t want to pick? What if I don’t need one color to define my entire being?",
         content: [
             "We were in the middle of discussing a design project when suddenly, my mentor turned to me and asked, “So, what’s your favorite color?”",
@@ -145,7 +145,7 @@ export const blogPosts = [
         id: 6,
         title: "If I had nine lives",
         date: "July 28, 2025",
-        imageUrl: "/images/blog-ocean.jpg",
+        imageUrl: "/images/blog6.jpg",
         preview: "I don’t have nine lives. I just have this one. So I guess I’ll spend it sitting by the ocean and waiting for you.",
         content: [
             "This has been sitting in my notes for the longest time… and today, I just couldn’t resist sharing it. I didn’t write it, so I won’t take any credit ,but it’s stayed with me ever since I first read it. Something about it felt too beautiful to keep to myself.",
@@ -206,7 +206,7 @@ export const blogPosts = [
         id: 7,
         title: "One who saw me before I saw myself.",
         date: "July 28, 2025",
-        imageUrl: "/images/blog-teacher.jpg",
+        imageUrl: "/images/blog7.jpg",
         preview: "Sometimes the people who see your light the earliest are the ones who never needed it to be polished.",
         content: [
             "Sometimes the people who see your light the earliest are the ones who never needed it to be polished.",
@@ -268,7 +268,7 @@ export const blogPosts = [
         id: 8,
         title: "Letters from Kaemi",
         date: "July 28, 2025",
-        imageUrl: "/images/blog-bag.jpg",
+        imageUrl: "/images/blog8.jpg",
         preview: "Chapter 1: The Bag That Knew Her Name. Kaemi was one of those girls you don’t notice until she’s already looking at you.",
         content: [
             "Chapter 1: The Bag That Knew Her Name",
@@ -358,7 +358,7 @@ export const blogPosts = [
         id: 9,
         title: "Magarmuch the artist",
         date: "July 26, 2025",
-        imageUrl: "/images/blog-crocodile.jpg",
+        imageUrl: "/images/blog9.jpg",
         preview: "I’m not joking when I say: Crocodiles would absolutely SLAY as artists. Not just any artists — I mean the chaotic, unbothered, deeply emotional, lowkey genius types.",
         content: [
             "Why Crocodiles Would Make the Best Artists",
@@ -604,7 +604,7 @@ export const blogPosts = [
         id: 10,
         title: "AI can’t feel what I feel.",
         date: "July 25, 2025",
-        imageUrl: "/images/blog-ai.jpg",
+        imageUrl: "/images/blog10.jpg",
         preview: "We built a mirror that doesn’t break. AI doesn’t sleep. It doesn’t stutter. It doesn’t have anxiety.",
         content: [
             "Sometimes I wonder what we’ve created.",

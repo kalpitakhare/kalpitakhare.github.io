@@ -16,10 +16,13 @@ const About = () => (
                 <FadeInSection>
                     <h2 className="about-title">About Me</h2>
                     <p className="about-text">
-                        Hello! I'm Kalpita Khare, an aspiring design student with a passion for bringing ideas to life through visual storytelling. My journey in art has been one of constant exploration, from the fine details of sketching to the dynamic world of stop-motion animation.
+                    Hello! I'm Kalpita Khare, an aspiring design student with a passion for bringing ideas to life through visual storytelling. I create and share my work under my artist pen name, Magarmuchh, which represents my playful and curious approach to art and design.
                     </p>
                     <p className="about-text">
-                        I am currently preparing for competitive design entrance exams like UCEED and NID. This portfolio is a curated collection of my work, showcasing my skills, my creative process, and my dedication to the craft of design.
+                    My journey in art has been one of constant exploration — from the fine details of sketching to the dynamic world of stop-motion animation.
+                    </p>
+                    <p className="about-text">
+                    I am currently preparing for competitive design entrance exams like UCEED and NID. This portfolio is a curated collection of my work, showcasing my skills, my creative process, and my dedication to the craft of design.
                     </p>
                 </FadeInSection>
             </div>
