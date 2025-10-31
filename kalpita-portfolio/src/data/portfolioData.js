@@ -24,6 +24,7 @@ export const portfolioItems = [
     { id: 21, title: "Artwork 21", category: "Sketching", imageUrl: "/images/img21.jpg", type: "image" },
     { id: 22, title: "Artwork 22", category: "Sketching", imageUrl: "/images/img31.jpg", type: "image" },
     { id: 23, title: "Artwork 23", category: "Sketching", imageUrl: "/images/img32.jpg", type: "image" },
+    { id: 24, title: "Artwork 24", category: "Sketching", imageUrl: "/images/img32.jpg", type: "image" },
     { id: 25, title: "Artwork 25", category: "Sketching", imageUrl: "/images/img14.jpg", type: "image" },
     { id: 26, title: "Artwork 26", category: "Sketching", imageUrl: "/images/img26.jpg", type: "image" },
     { id: 27, title: "Artwork 27", category: "Sketching", imageUrl: "/images/img27.jpg", type: "image" },
